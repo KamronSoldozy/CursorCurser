@@ -10,7 +10,8 @@ const curseAr = [
 "Welllll darn.",
 "Blimey!",
 "Bollocks..."
-
+"Schade"
+"So ein Pech"
 ];
  
 console.log(curseAr);
